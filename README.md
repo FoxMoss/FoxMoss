@@ -15,4 +15,4 @@ foxmoss@mediaology.com
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 10000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; background: url('https://raw.githubusercontent.com/velzie/velzie/master/spinny_cat.gif');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 10000; position: fixed; top: 0; right: 0; width:1246px; height: 56px; background: url('https://raw.githubusercontent.com/FoxMoss/FoxMoss/main/fakebar.png');]{x0000}$}
