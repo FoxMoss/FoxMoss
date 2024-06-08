@@ -15,4 +15,4 @@ foxmoss@mediaology.com
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 10000; position: fixed; top: 0; right: 0; width:1246px; height: 56px; background: url('https://raw.githubusercontent.com/FoxMoss/FoxMoss/main/fakebar.png');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 10000; position: fixed; top: 0; right: 0; width:1246px; height: 56px; background: url('https://raw.githubusercontent.com/FoxMoss/FoxMoss/main/fakebar.png');]{x0000}$}
